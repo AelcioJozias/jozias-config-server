@@ -6,7 +6,7 @@ spring:
 
 greeting-service:
   greeting: "Hello"
-  defaultValue: "World"
+  defaultValue: "World. Testing..."
 
 management:
   endpoints:
